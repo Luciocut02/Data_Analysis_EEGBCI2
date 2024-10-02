@@ -41,10 +41,5 @@ metrics_cs_80_20_r_r2.mat-->80-20% cross-session
 metrics_cs_60_40_r_r2.mat-->60-40% cross-session
 metrics2_cs_80_20_r_r2.mat-->80-20% cross-session
 metrics2_cs_60_40_r_r2.mat-->60-40% cross-session
-time_80_20r.mat
-time_60_40r.mat
-time_40_60r.mat
-time_20_80r.mat
-time_cs_80_20r.mat
-time_cs_60_40r.mat
+
 
